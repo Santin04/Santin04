@@ -20,7 +20,6 @@ Engenharia da computação 2/10<br>Procurando emprego
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40px" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px" width="40px">
-  < !-- att techs https://devicon.dev-- >
 </div>
           
 # 📊 GitHub Stats:
