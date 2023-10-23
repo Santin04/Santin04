@@ -1,10 +1,14 @@
-# 💫 About Me:
-Engenharia da computação 2/10<br>Procurando emprego
+# <div align="center">Mateus Santin</div>
+
+## 💫 About Me:
+- 19 years old
+- Engenharia da computação 2/10
+- Procurando emprego
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-santin-33b837266/)<br>
-&#128222; +55 (19)998113224
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-santin-33b837266/)<br>
+- &#128222; +55 (19)998113224
 
 # 💻 Tech Stack:
 <div style="display: flex;">
@@ -23,9 +27,9 @@ Engenharia da computação 2/10<br>Procurando emprego
 </div>
           
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santin04&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=Santin04&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Santin04&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santin04&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Santin04&icon=0&color=3)](https://visitcount.itsvg.in)
