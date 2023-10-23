@@ -1,7 +1,7 @@
 # <div align="center">Mateus Santin</div>
 
 ## 💫 About Me:
-- <h3>Dev Front-End</h3>
+- Dev Front-End
 - 19 years old
 - Engenharia da computação 2/10
 - Procurando emprego
