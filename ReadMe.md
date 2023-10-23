@@ -1,7 +1,9 @@
-# <div align="center">Mateus Santin</div>
+<h1 align="center">
+  Mateus Santin Teixeira
+  <p>Dev Front-End</p>
+</h1>
 
 ## 💫 About Me:
-- Dev Front-End
 - 19 years old
 - Engenharia da computação 2/10
 - Procurando emprego
