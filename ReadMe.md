@@ -5,8 +5,8 @@
 
 ## 💫 About Me:
 - 19 years old
-- Engenharia da computação 2/10
-- Procurando emprego
+- Computer engineering 2/10
+- Looking for a job
 
 
 ## 🌐 Socials:
