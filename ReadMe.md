@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 - 19 years old
-- Computer engineering 2/10
+- Computer engineering 3/10
 - Looking for a job
 
 
