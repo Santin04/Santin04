@@ -6,7 +6,7 @@
 ## 💫 About Me:
 - 19 years old
 - Computer engineering 2/10
-
+- Working at HPro, using Delphi 
 
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-santin-33b837266/)<br>
@@ -30,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40px" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px" width="40px">
 </div>         
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santin04&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=Santin04&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
