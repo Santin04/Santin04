@@ -4,9 +4,9 @@
 </h1>
 
 ## 💫 About Me:
-- 19 years old
-- Computer engineering 2/10
-- Working at HPro, using Delphi 
+- 19 years old;
+- Computer Engineering 2/10;
+- Working at HPro, using Delphi.
 
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-santin-33b837266/)<br>
