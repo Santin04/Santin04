@@ -9,7 +9,7 @@
 </h1>
 
 ## 💫 About Me:
-- 19 years old;
+- 20 years old;
 - Computer Engineering 2/10;
 - Working at HPro, using Delphi.
 
