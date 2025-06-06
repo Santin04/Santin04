@@ -11,7 +11,7 @@
 ## 💫 About Me:
 - 20 years old;
 - Computer Engineering 3/8;
-- Working at HPro, using Delphi and JavaScript.
+- Working at PwC DTS, using Salesforce.
 
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-santin-33b837266/)<br>
