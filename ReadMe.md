@@ -10,7 +10,7 @@
 
 ## 💫 About Me:
 - 20 years old;
-- Computer Engineering 3/8;
+- Computer Engineering 6/8;
 - Working at PwC DTS, using Salesforce.
 
 ## 🌐 Socials:
